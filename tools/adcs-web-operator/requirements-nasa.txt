@@ -1,0 +1,2 @@
+# Optional: only needed for NASA GroundSystem RoutingService (ZeroMQ) mode
+pyzmq>=25
