@@ -1,0 +1,1202 @@
+[
+  {
+    "app": "imu_app",
+    "payload": {
+      "raw_rate_rad_s": -0.014717564890375413,
+      "rate_rad_s": -0.01787099382253153,
+      "angle_rad": -0.007106756041785858,
+      "bias_rad_s": 0.00367,
+      "temp_c": 27.734053987513608,
+      "dt_s": 0.2,
+      "sample_counter": 61,
+      "valid": 1,
+      "status": 0,
+      "stationary": 0,
+      "simulated": 1
+    }
+  },
+  {
+    "app": "act_app",
+    "payload": {
+      "cmd_omega_rad_s": 0.0,
+      "target_omega_rad_s": 0.0,
+      "meas_omega_rad_s": 0.0,
+      "pfm_hz": 0,
+      "sample_counter": 61,
+      "valid": 1,
+      "status": 0,
+      "saturated": 0,
+      "simulated": 1,
+      "enabled": 0,
+      "braking": 1,
+      "direction": 0,
+      "measured": 0
+    }
+  },
+  {
+    "app": "light_app",
+    "payload": {
+      "left_lux": 276.993325918379,
+      "right_lux": 659.8691295499638,
+      "normalized_diff": 0.40867877818861137,
+      "bearing_rad": 0.4497769267704814,
+      "sample_counter": 61,
+      "valid": 1,
+      "status": 0,
+      "simulated": 1,
+      "error_valid": 1
+    }
+  },
+  {
+    "app": "imu_app",
+    "payload": {
+      "raw_rate_rad_s": -0.014425857481897281,
+      "rate_rad_s": -0.01798118850776271,
+      "angle_rad": -0.0107029937433384,
+      "bias_rad_s": 0.00367,
+      "temp_c": 27.73878548403702,
+      "dt_s": 0.2,
+      "sample_counter": 62,
+      "valid": 1,
+      "status": 0,
+      "stationary": 0,
+      "simulated": 1
+    }
+  },
+  {
+    "app": "act_app",
+    "payload": {
+      "cmd_omega_rad_s": 0.0,
+      "target_omega_rad_s": 0.0,
+      "meas_omega_rad_s": 0.0,
+      "pfm_hz": 0,
+      "sample_counter": 62,
+      "valid": 1,
+      "status": 0,
+      "saturated": 0,
+      "simulated": 1,
+      "enabled": 0,
+      "braking": 1,
+      "direction": 0,
+      "measured": 0
+    }
+  },
+  {
+    "app": "light_app",
+    "payload": {
+      "left_lux": 274.68359981724717,
+      "right_lux": 660.2562391541977,
+      "normalized_diff": 0.41240368980439474,
+      "bearing_rad": 0.45418193349780167,
+      "sample_counter": 62,
+      "valid": 1,
+      "status": 0,
+      "simulated": 1,
+      "error_valid": 1
+    }
+  },
+  {
+    "app": "imu_app",
+    "payload": {
+      "raw_rate_rad_s": -0.014288990584074823,
+      "rate_rad_s": -0.01799276608374717,
+      "angle_rad": -0.014301546960087834,
+      "bias_rad_s": 0.00367,
+      "temp_c": 27.743486251950607,
+      "dt_s": 0.2,
+      "sample_counter": 63,
+      "valid": 1,
+      "status": 0,
+      "stationary": 0,
+      "simulated": 1
+    }
+  },
+  {
+    "app": "act_app",
+    "payload": {
+      "cmd_omega_rad_s": 0.0,
+      "target_omega_rad_s": 0.0,
+      "meas_omega_rad_s": 0.0,
+      "pfm_hz": 0,
+      "sample_counter": 63,
+      "valid": 1,
+      "status": 0,
+      "saturated": 0,
+      "simulated": 1,
+      "enabled": 0,
+      "braking": 1,
+      "direction": 0,
+      "measured": 0
+    }
+  },
+  {
+    "app": "light_app",
+    "payload": {
+      "left_lux": 272.4180555279196,
+      "right_lux": 660.5432706577079,
+      "normalized_diff": 0.4160142593655213,
+      "bearing_rad": 0.4584607814973095,
+      "sample_counter": 63,
+      "valid": 1,
+      "status": 0,
+      "simulated": 1,
+      "error_valid": 1
+    }
+  },
+  {
+    "app": "imu_app",
+    "payload": {
+      "raw_rate_rad_s": -0.014037152128066886,
+      "rate_rad_s": -0.017905663053732455,
+      "angle_rad": -0.017882679570834326,
+      "bias_rad_s": 0.00367,
+      "temp_c": 27.748155864884087,
+      "dt_s": 0.2,
+      "sample_counter": 64,
+      "valid": 1,
+      "status": 0,
+      "stationary": 0,
+      "simulated": 1
+    }
+  },
+  {
+    "app": "act_app",
+    "payload": {
+      "cmd_omega_rad_s": 0.0,
+      "target_omega_rad_s": 0.0,
+      "meas_omega_rad_s": 0.0,
+      "pfm_hz": 0,
+      "sample_counter": 64,
+      "valid": 1,
+      "status": 0,
+      "saturated": 0,
+      "simulated": 1,
+      "enabled": 0,
+      "braking": 1,
+      "direction": 0,
+      "measured": 0
+    }
+  },
+  {
+    "app": "light_app",
+    "payload": {
+      "left_lux": 270.1977590708468,
+      "right_lux": 660.732323238441,
+      "normalized_diff": 0.4195100916696394,
+      "bearing_rad": 0.4626122822276292,
+      "sample_counter": 64,
+      "valid": 1,
+      "status": 0,
+      "simulated": 1,
+      "error_valid": 1
+    }
+  },
+  {
+    "app": "imu_app",
+    "payload": {
+      "raw_rate_rad_s": -0.013979612956633143,
+      "rate_rad_s": -0.017720357130803152,
+      "angle_rad": -0.021426750996994957,
+      "bias_rad_s": 0.00367,
+      "temp_c": 27.752793899293,
+      "dt_s": 0.2,
+      "sample_counter": 65,
+      "valid": 1,
+      "status": 0,
+      "stationary": 0,
+      "simulated": 1
+    }
+  },
+  {
+    "app": "act_app",
+    "payload": {
+      "cmd_omega_rad_s": 0.0,
+      "target_omega_rad_s": 0.0,
+      "meas_omega_rad_s": 0.0,
+      "pfm_hz": 0,
+      "sample_counter": 65,
+      "valid": 1,
+      "status": 0,
+      "saturated": 0,
+      "simulated": 1,
+      "enabled": 0,
+      "braking": 1,
+      "direction": 0,
+      "measured": 0
+    }
+  },
+  {
+    "app": "light_app",
+    "payload": {
+      "left_lux": 268.0237449420159,
+      "right_lux": 660.8256119573031,
+      "normalized_diff": 0.4228908208824482,
+      "bearing_rad": 0.46663528252080744,
+      "sample_counter": 65,
+      "valid": 1,
+      "status": 0,
+      "simulated": 1,
+      "error_valid": 1
+    }
+  },
+  {
+    "app": "imu_app",
+    "payload": {
+      "raw_rate_rad_s": -0.01431587676461941,
+      "rate_rad_s": -0.017437864617882607,
+      "angle_rad": -0.02491432392057148,
+      "bias_rad_s": 0.00367,
+      "temp_c": 27.757399934497137,
+      "dt_s": 0.2,
+      "sample_counter": 66,
+      "valid": 1,
+      "status": 0,
+      "stationary": 0,
+      "simulated": 1
+    }
+  },
+  {
+    "app": "act_app",
+    "payload": {
+      "cmd_omega_rad_s": 0.0,
+      "target_omega_rad_s": 0.0,
+      "meas_omega_rad_s": 0.0,
+      "pfm_hz": 0,
+      "sample_counter": 66,
+      "valid": 1,
+      "status": 0,
+      "saturated": 0,
+      "simulated": 1,
+      "enabled": 0,
+      "braking": 1,
+      "direction": 0,
+      "measured": 0
+    }
+  },
+  {
+    "app": "light_app",
+    "payload": {
+      "left_lux": 265.8970164471688,
+      "right_lux": 660.8254622253435,
+      "normalized_diff": 0.4261561091556684,
+      "bearing_rad": 0.4705286649026306,
+      "sample_counter": 66,
+      "valid": 1,
+      "status": 0,
+      "simulated": 1,
+      "error_valid": 1
+    }
+  },
+  {
+    "app": "imu_app",
+    "payload": {
+      "raw_rate_rad_s": -0.012886654578728032,
+      "rate_rad_s": -0.01705973483386017,
+      "angle_rad": -0.028326270887343512,
+      "bias_rad_s": 0.00367,
+      "temp_c": 27.761973552718683,
+      "dt_s": 0.2,
+      "sample_counter": 67,
+      "valid": 1,
+      "status": 0,
+      "stationary": 0,
+      "simulated": 1
+    }
+  },
+  {
+    "app": "act_app",
+    "payload": {
+      "cmd_omega_rad_s": 0.0,
+      "target_omega_rad_s": 0.0,
+      "meas_omega_rad_s": 0.0,
+      "pfm_hz": 0,
+      "sample_counter": 67,
+      "valid": 1,
+      "status": 0,
+      "saturated": 0,
+      "simulated": 1,
+      "enabled": 0,
+      "braking": 1,
+      "direction": 0,
+      "measured": 0
+    }
+  },
+  {
+    "app": "light_app",
+    "payload": {
+      "left_lux": 263.81854613290864,
+      "right_lux": 660.7343040474125,
+      "normalized_diff": 0.4293056452501238,
+      "bearing_rad": 0.47429134790302707,
+      "sample_counter": 67,
+      "valid": 1,
+      "status": 0,
+      "simulated": 1,
+      "error_valid": 1
+    }
+  },
+  {
+    "app": "imu_app",
+    "payload": {
+      "raw_rate_rad_s": -0.012469782493866287,
+      "rate_rad_s": -0.016588041616413716,
+      "angle_rad": -0.03164387921062625,
+      "bias_rad_s": 0.00367,
+      "temp_c": 27.766514339120118,
+      "dt_s": 0.2,
+      "sample_counter": 68,
+      "valid": 1,
+      "status": 0,
+      "stationary": 0,
+      "simulated": 1
+    }
+  },
+  {
+    "app": "act_app",
+    "payload": {
+      "cmd_omega_rad_s": 0.0,
+      "target_omega_rad_s": 0.0,
+      "meas_omega_rad_s": 0.0,
+      "pfm_hz": 0,
+      "sample_counter": 68,
+      "valid": 1,
+      "status": 0,
+      "saturated": 0,
+      "simulated": 1,
+      "enabled": 0,
+      "braking": 1,
+      "direction": 0,
+      "measured": 0
+    }
+  },
+  {
+    "app": "light_app",
+    "payload": {
+      "left_lux": 261.78927630860954,
+      "right_lux": 660.5546660568938,
+      "normalized_diff": 0.4323391431677694,
+      "bearing_rad": 0.4779222863564685,
+      "sample_counter": 68,
+      "valid": 1,
+      "status": 0,
+      "simulated": 1,
+      "error_valid": 1
+    }
+  },
+  {
+    "app": "imu_app",
+    "payload": {
+      "raw_rate_rad_s": -0.011823157494244597,
+      "rate_rad_s": -0.016025371948129835,
+      "angle_rad": -0.03484895360025222,
+      "bias_rad_s": 0.00367,
+      "temp_c": 27.77102188184184,
+      "dt_s": 0.2,
+      "sample_counter": 69,
+      "valid": 1,
+      "status": 0,
+      "stationary": 0,
+      "simulated": 1
+    }
+  },
+  {
+    "app": "act_app",
+    "payload": {
+      "cmd_omega_rad_s": 0.0,
+      "target_omega_rad_s": 0.0,
+      "meas_omega_rad_s": 0.0,
+      "pfm_hz": 0,
+      "sample_counter": 69,
+      "valid": 1,
+      "status": 0,
+      "saturated": 0,
+      "simulated": 1,
+      "enabled": 0,
+      "braking": 1,
+      "direction": 0,
+      "measured": 0
+    }
+  },
+  {
+    "app": "light_app",
+    "payload": {
+      "left_lux": 259.81011965286814,
+      "right_lux": 660.2891693564862,
+      "normalized_diff": 0.43525634079644043,
+      "bearing_rad": 0.48142047169228686,
+      "sample_counter": 69,
+      "valid": 1,
+      "status": 0,
+      "simulated": 1,
+      "error_valid": 1
+    }
+  },
+  {
+    "app": "imu_app",
+    "payload": {
+      "raw_rate_rad_s": -0.011588421731485905,
+      "rate_rad_s": -0.015374811768301312,
+      "angle_rad": -0.03792391595391248,
+      "bias_rad_s": 0.00367,
+      "temp_c": 27.775495772039534,
+      "dt_s": 0.2,
+      "sample_counter": 70,
+      "valid": 1,
+      "status": 0,
+      "stationary": 0,
+      "simulated": 1
+    }
+  },
+  {
+    "app": "act_app",
+    "payload": {
+      "cmd_omega_rad_s": 0.0,
+      "target_omega_rad_s": 0.0,
+      "meas_omega_rad_s": 0.0,
+      "pfm_hz": 0,
+      "sample_counter": 70,
+      "valid": 1,
+      "status": 0,
+      "saturated": 0,
+      "simulated": 1,
+      "enabled": 0,
+      "braking": 1,
+      "direction": 0,
+      "measured": 0
+    }
+  },
+  {
+    "app": "light_app",
+    "payload": {
+      "left_lux": 257.8819598980937,
+      "right_lux": 659.9405211803162,
+      "normalized_diff": 0.4380569985710281,
+      "bearing_rad": 0.48478493221482655,
+      "sample_counter": 70,
+      "valid": 1,
+      "status": 0,
+      "simulated": 1,
+      "error_valid": 1
+    }
+  },
+  {
+    "app": "imu_app",
+    "payload": {
+      "raw_rate_rad_s": -0.010401416598647793,
+      "rate_rad_s": -0.014639929048216477,
+      "angle_rad": -0.04085190176355578,
+      "bias_rad_s": 0.00367,
+      "temp_c": 27.77993560392123,
+      "dt_s": 0.2,
+      "sample_counter": 71,
+      "valid": 1,
+      "status": 0,
+      "stationary": 0,
+      "simulated": 1
+    }
+  },
+  {
+    "app": "act_app",
+    "payload": {
+      "cmd_omega_rad_s": 0.0,
+      "target_omega_rad_s": 0.0,
+      "meas_omega_rad_s": 0.0,
+      "pfm_hz": 0,
+      "sample_counter": 71,
+      "valid": 1,
+      "status": 0,
+      "saturated": 0,
+      "simulated": 1,
+      "enabled": 0,
+      "braking": 1,
+      "direction": 0,
+      "measured": 0
+    }
+  },
+  {
+    "app": "light_app",
+    "payload": {
+      "left_lux": 256.0056525867203,
+      "right_lux": 659.5115083929464,
+      "normalized_diff": 0.4407408981547074,
+      "bearing_rad": 0.48801473337335366,
+      "sample_counter": 71,
+      "valid": 1,
+      "status": 0,
+      "simulated": 1,
+      "error_valid": 1
+    }
+  },
+  {
+    "app": "imu_app",
+    "payload": {
+      "raw_rate_rad_s": -0.009807943780527064,
+      "rate_rad_s": -0.013824754222763354,
+      "angle_rad": -0.04361685260810845,
+      "bias_rad_s": 0.00367,
+      "temp_c": 27.78434097478414,
+      "dt_s": 0.2,
+      "sample_counter": 72,
+      "valid": 1,
+      "status": 0,
+      "stationary": 0,
+      "simulated": 1
+    }
+  },
+  {
+    "app": "act_app",
+    "payload": {
+      "cmd_omega_rad_s": 0.0,
+      "target_omega_rad_s": 0.0,
+      "meas_omega_rad_s": 0.0,
+      "pfm_hz": 0,
+      "sample_counter": 72,
+      "valid": 1,
+      "status": 0,
+      "saturated": 0,
+      "simulated": 1,
+      "enabled": 0,
+      "braking": 1,
+      "direction": 0,
+      "measured": 0
+    }
+  },
+  {
+    "app": "light_app",
+    "payload": {
+      "left_lux": 254.18202589243106,
+      "right_lux": 659.004990841076,
+      "normalized_diff": 0.44330784114376365,
+      "bearing_rad": 0.49110897802164727,
+      "sample_counter": 72,
+      "valid": 1,
+      "status": 0,
+      "simulated": 1,
+      "error_valid": 1
+    }
+  },
+  {
+    "app": "imu_app",
+    "payload": {
+      "raw_rate_rad_s": -0.008831866767353438,
+      "rate_rad_s": -0.01293375808567077,
+      "angle_rad": -0.046203604225242605,
+      "bias_rad_s": 0.00367,
+      "temp_c": 27.788711485051156,
+      "dt_s": 0.2,
+      "sample_counter": 73,
+      "valid": 1,
+      "status": 0,
+      "stationary": 0,
+      "simulated": 1
+    }
+  },
+  {
+    "app": "act_app",
+    "payload": {
+      "cmd_omega_rad_s": 0.0,
+      "target_omega_rad_s": 0.0,
+      "meas_omega_rad_s": 0.0,
+      "pfm_hz": 0,
+      "sample_counter": 73,
+      "valid": 1,
+      "status": 0,
+      "saturated": 0,
+      "simulated": 1,
+      "enabled": 0,
+      "braking": 1,
+      "direction": 0,
+      "measured": 0
+    }
+  },
+  {
+    "app": "light_app",
+    "payload": {
+      "left_lux": 252.41188149973004,
+      "right_lux": 658.423894573924,
+      "normalized_diff": 0.44575764779946686,
+      "bearing_rad": 0.49406680666720104,
+      "sample_counter": 73,
+      "valid": 1,
+      "status": 0,
+      "simulated": 1,
+      "error_valid": 1
+    }
+  },
+  {
+    "app": "imu_app",
+    "payload": {
+      "raw_rate_rad_s": -0.008607648724195383,
+      "rate_rad_s": -0.011971827269618863,
+      "angle_rad": -0.04859796967916638,
+      "bias_rad_s": 0.00367,
+      "temp_c": 27.79304673830711,
+      "dt_s": 0.2,
+      "sample_counter": 74,
+      "valid": 1,
+      "status": 0,
+      "stationary": 0,
+      "simulated": 1
+    }
+  },
+  {
+    "app": "act_app",
+    "payload": {
+      "cmd_omega_rad_s": 0.0,
+      "target_omega_rad_s": 0.0,
+      "meas_omega_rad_s": 0.0,
+      "pfm_hz": 0,
+      "sample_counter": 74,
+      "valid": 1,
+      "status": 0,
+      "saturated": 0,
+      "simulated": 1,
+      "enabled": 0,
+      "braking": 1,
+      "direction": 0,
+      "measured": 0
+    }
+  },
+  {
+    "app": "light_app",
+    "payload": {
+      "left_lux": 250.69599553515326,
+      "right_lux": 657.7712049484389,
+      "normalized_diff": 0.4480901558103504,
+      "bearing_rad": 0.4968873977099655,
+      "sample_counter": 74,
+      "valid": 1,
+      "status": 0,
+      "simulated": 1,
+      "error_valid": 1
+    }
+  },
+  {
+    "app": "imu_app",
+    "payload": {
+      "raw_rate_rad_s": -0.007069114550150609,
+      "rate_rad_s": -0.01094423744569763,
+      "angle_rad": -0.05078681716830591,
+      "bias_rad_s": 0.00367,
+      "temp_c": 27.797346341334723,
+      "dt_s": 0.2,
+      "sample_counter": 75,
+      "valid": 1,
+      "status": 0,
+      "stationary": 0,
+      "simulated": 1
+    }
+  },
+  {
+    "app": "act_app",
+    "payload": {
+      "cmd_omega_rad_s": 0.0,
+      "target_omega_rad_s": 0.0,
+      "meas_omega_rad_s": 0.0,
+      "pfm_hz": 0,
+      "sample_counter": 75,
+      "valid": 1,
+      "status": 0,
+      "saturated": 0,
+      "simulated": 1,
+      "enabled": 0,
+      "braking": 1,
+      "direction": 0,
+      "measured": 0
+    }
+  },
+  {
+    "app": "light_app",
+    "payload": {
+      "left_lux": 249.0351195434005,
+      "right_lux": 657.0499596355958,
+      "normalized_diff": 0.4503052190881429,
+      "bearing_rad": 0.4995699676705651,
+      "sample_counter": 75,
+      "valid": 1,
+      "status": 0,
+      "simulated": 1,
+      "error_valid": 1
+    }
+  },
+  {
+    "app": "imu_app",
+    "payload": {
+      "raw_rate_rad_s": -0.006206342163221587,
+      "rate_rad_s": -0.009856624389199856,
+      "angle_rad": -0.05275814204614588,
+      "bias_rad_s": 0.00367,
+      "temp_c": 27.80160990415028,
+      "dt_s": 0.2,
+      "sample_counter": 76,
+      "valid": 1,
+      "status": 0,
+      "stationary": 0,
+      "simulated": 1
+    }
+  },
+  {
+    "app": "act_app",
+    "payload": {
+      "cmd_omega_rad_s": 0.0,
+      "target_omega_rad_s": 0.0,
+      "meas_omega_rad_s": 0.0,
+      "pfm_hz": 0,
+      "sample_counter": 76,
+      "valid": 1,
+      "status": 0,
+      "saturated": 0,
+      "simulated": 1,
+      "enabled": 0,
+      "braking": 1,
+      "direction": 0,
+      "measured": 0
+    }
+  },
+  {
+    "app": "light_app",
+    "payload": {
+      "left_lux": 247.42998150167696,
+      "right_lux": 656.263241544118,
+      "normalized_diff": 0.4524027066004935,
+      "bearing_rad": 0.5021137714079265,
+      "sample_counter": 76,
+      "valid": 1,
+      "status": 0,
+      "simulated": 1,
+      "error_valid": 1
+    }
+  },
+  {
+    "app": "imu_app",
+    "payload": {
+      "raw_rate_rad_s": -0.004953859083623167,
+      "rate_rad_s": -0.008714953070436831,
+      "angle_rad": -0.054501132660233244,
+      "bias_rad_s": 0.00367,
+      "temp_c": 27.805837040038977,
+      "dt_s": 0.2,
+      "sample_counter": 77,
+      "valid": 1,
+      "status": 0,
+      "stationary": 0,
+      "simulated": 1
+    }
+  },
+  {
+    "app": "act_app",
+    "payload": {
+      "cmd_omega_rad_s": 0.0,
+      "target_omega_rad_s": 0.0,
+      "meas_omega_rad_s": 0.0,
+      "pfm_hz": 0,
+      "sample_counter": 77,
+      "valid": 1,
+      "status": 0,
+      "saturated": 0,
+      "simulated": 1,
+      "enabled": 0,
+      "braking": 1,
+      "direction": 0,
+      "measured": 0
+    }
+  },
+  {
+    "app": "light_app",
+    "payload": {
+      "left_lux": 245.8812868655607,
+      "right_lux": 655.4141716780052,
+      "normalized_diff": 0.4543825012435131,
+      "bearing_rad": 0.5045181023262567,
+      "sample_counter": 77,
+      "valid": 1,
+      "status": 0,
+      "simulated": 1,
+      "error_valid": 1
+    }
+  },
+  {
+    "app": "imu_app",
+    "payload": {
+      "raw_rate_rad_s": -0.003926663065818517,
+      "rate_rad_s": -0.007525484940097279,
+      "angle_rad": -0.0560062296482527,
+      "bias_rad_s": 0.00367,
+      "temp_c": 27.810027365590038,
+      "dt_s": 0.2,
+      "sample_counter": 78,
+      "valid": 1,
+      "status": 0,
+      "stationary": 0,
+      "simulated": 1
+    }
+  },
+  {
+    "app": "act_app",
+    "payload": {
+      "cmd_omega_rad_s": 0.0,
+      "target_omega_rad_s": 0.0,
+      "meas_omega_rad_s": 0.0,
+      "pfm_hz": 0,
+      "sample_counter": 78,
+      "valid": 1,
+      "status": 0,
+      "saturated": 0,
+      "simulated": 1,
+      "enabled": 0,
+      "braking": 1,
+      "direction": 0,
+      "measured": 0
+    }
+  },
+  {
+    "app": "light_app",
+    "payload": {
+      "left_lux": 244.38971963976135,
+      "right_lux": 654.5059019442555,
+      "normalized_diff": 0.4562444987570361,
+      "bearing_rad": 0.5067822925713164,
+      "sample_counter": 78,
+      "valid": 1,
+      "status": 0,
+      "simulated": 1,
+      "error_valid": 1
+    }
+  },
+  {
+    "app": "imu_app",
+    "payload": {
+      "raw_rate_rad_s": -0.0030410669232814494,
+      "rate_rad_s": -0.00629474358857152,
+      "angle_rad": -0.05726517836596701,
+      "bias_rad_s": 0.00367,
+      "temp_c": 27.81418050073145,
+      "dt_s": 0.2,
+      "sample_counter": 79,
+      "valid": 1,
+      "status": 0,
+      "stationary": 0,
+      "simulated": 1
+    }
+  },
+  {
+    "app": "act_app",
+    "payload": {
+      "cmd_omega_rad_s": 0.0,
+      "target_omega_rad_s": 0.0,
+      "meas_omega_rad_s": 0.0,
+      "pfm_hz": 0,
+      "sample_counter": 79,
+      "valid": 1,
+      "status": 0,
+      "saturated": 0,
+      "simulated": 1,
+      "enabled": 0,
+      "braking": 1,
+      "direction": 0,
+      "measured": 0
+    }
+  },
+  {
+    "app": "light_app",
+    "payload": {
+      "left_lux": 242.95594346719912,
+      "right_lux": 653.5416079271462,
+      "normalized_diff": 0.4579886066853756,
+      "bearing_rad": 0.508905713215929,
+      "sample_counter": 79,
+      "valid": 1,
+      "status": 0,
+      "simulated": 1,
+      "error_valid": 1
+    }
+  },
+  {
+    "app": "imu_app",
+    "payload": {
+      "raw_rate_rad_s": -0.0017615776454833736,
+      "rate_rad_s": -0.005029478967580773,
+      "angle_rad": -0.05827107415948316,
+      "bias_rad_s": 0.00367,
+      "temp_c": 27.818296068764457,
+      "dt_s": 0.2,
+      "sample_counter": 80,
+      "valid": 1,
+      "status": 0,
+      "stationary": 0,
+      "simulated": 1
+    }
+  },
+  {
+    "app": "act_app",
+    "payload": {
+      "cmd_omega_rad_s": 0.0,
+      "target_omega_rad_s": 0.0,
+      "meas_omega_rad_s": 0.0,
+      "pfm_hz": 0,
+      "sample_counter": 80,
+      "valid": 1,
+      "status": 0,
+      "saturated": 0,
+      "simulated": 1,
+      "enabled": 0,
+      "braking": 1,
+      "direction": 0,
+      "measured": 0
+    }
+  },
+  {
+    "app": "light_app",
+    "payload": {
+      "left_lux": 241.58060272991432,
+      "right_lux": 652.5244816453794,
+      "normalized_diff": 0.4596147433862199,
+      "bearing_rad": 0.5108877744346807,
+      "sample_counter": 80,
+      "valid": 1,
+      "status": 0,
+      "simulated": 1,
+      "error_valid": 1
+    }
+  },
+  {
+    "app": "imu_app",
+    "payload": {
+      "raw_rate_rad_s": 0.00044956196163857683,
+      "rate_rad_s": -0.003736630370336949,
+      "angle_rad": -0.05901840023355055,
+      "bias_rad_s": 0.00367,
+      "temp_c": 27.822373696397733,
+      "dt_s": 0.2,
+      "sample_counter": 81,
+      "valid": 1,
+      "status": 0,
+      "stationary": 0,
+      "simulated": 1
+    }
+  },
+  {
+    "app": "act_app",
+    "payload": {
+      "cmd_omega_rad_s": 0.0,
+      "target_omega_rad_s": 0.0,
+      "meas_omega_rad_s": 0.0,
+      "pfm_hz": 0,
+      "sample_counter": 81,
+      "valid": 1,
+      "status": 0,
+      "saturated": 0,
+      "simulated": 1,
+      "enabled": 0,
+      "braking": 1,
+      "direction": 0,
+      "measured": 0
+    }
+  },
+  {
+    "app": "light_app",
+    "payload": {
+      "left_lux": 240.26432365541623,
+      "right_lux": 651.4577243083104,
+      "normalized_diff": 0.46112283709017426,
+      "bearing_rad": 0.5127279256677552,
+      "sample_counter": 81,
+      "valid": 1,
+      "status": 0,
+      "simulated": 1,
+      "error_valid": 1
+    }
+  },
+  {
+    "app": "imu_app",
+    "payload": {
+      "raw_rate_rad_s": 0.0013765061984372308,
+      "rate_rad_s": -0.002423288373266592,
+      "angle_rad": -0.05950305790820387,
+      "bias_rad_s": 0.00367,
+      "temp_c": 27.826413013781227,
+      "dt_s": 0.2,
+      "sample_counter": 82,
+      "valid": 1,
+      "status": 0,
+      "stationary": 0,
+      "simulated": 1
+    }
+  },
+  {
+    "app": "act_app",
+    "payload": {
+      "cmd_omega_rad_s": 0.0,
+      "target_omega_rad_s": 0.0,
+      "meas_omega_rad_s": 0.0,
+      "pfm_hz": 0,
+      "sample_counter": 82,
+      "valid": 1,
+      "status": 0,
+      "saturated": 0,
+      "simulated": 1,
+      "enabled": 0,
+      "braking": 1,
+      "direction": 0,
+      "measured": 0
+    }
+  },
+  {
+    "app": "light_app",
+    "payload": {
+      "left_lux": 239.00771542218502,
+      "right_lux": 650.3445390873636,
+      "normalized_diff": 0.4625128250133223,
+      "bearing_rad": 0.514425655773864,
+      "sample_counter": 82,
+      "valid": 1,
+      "status": 0,
+      "simulated": 1,
+      "error_valid": 1
+    }
+  },
+  {
+    "app": "imu_app",
+    "payload": {
+      "raw_rate_rad_s": 0.0023838890726464675,
+      "rate_rad_s": -0.0010966559480279556,
+      "angle_rad": -0.05972238909780946,
+      "bias_rad_s": 0.00367,
+      "temp_c": 27.83041365453971,
+      "dt_s": 0.2,
+      "sample_counter": 83,
+      "valid": 1,
+      "status": 0,
+      "stationary": 1,
+      "simulated": 1
+    }
+  },
+  {
+    "app": "act_app",
+    "payload": {
+      "cmd_omega_rad_s": 0.0,
+      "target_omega_rad_s": 0.0,
+      "meas_omega_rad_s": 0.0,
+      "pfm_hz": 0,
+      "sample_counter": 83,
+      "valid": 1,
+      "status": 0,
+      "saturated": 0,
+      "simulated": 1,
+      "enabled": 0,
+      "braking": 1,
+      "direction": 0,
+      "measured": 0
+    }
+  },
+  {
+    "app": "light_app",
+    "payload": {
+      "left_lux": 237.811371258165,
+      "right_lux": 649.1881239185924,
+      "normalized_diff": 0.46378465252502765,
+      "bearing_rad": 0.5159804931722277,
+      "sample_counter": 83,
+      "valid": 1,
+      "status": 0,
+      "simulated": 1,
+      "error_valid": 1
+    }
+  },
+  {
+    "app": "imu_app",
+    "payload": {
+      "raw_rate_rad_s": 0.0038190612529686438,
+      "rate_rad_s": 0.00023599104289894613,
+      "angle_rad": -0.05967519088922967,
+      "bias_rad_s": 0.00367,
+      "temp_c": 27.834375255806023,
+      "dt_s": 0.2,
+      "sample_counter": 84,
+      "valid": 1,
+      "status": 0,
+      "stationary": 1,
+      "simulated": 1
+    }
+  },
+  {
+    "app": "act_app",
+    "payload": {
+      "cmd_omega_rad_s": 0.0,
+      "target_omega_rad_s": 0.0,
+      "meas_omega_rad_s": 0.0,
+      "pfm_hz": 0,
+      "sample_counter": 84,
+      "valid": 1,
+      "status": 0,
+      "saturated": 0,
+      "simulated": 1,
+      "enabled": 0,
+      "braking": 1,
+      "direction": 0,
+      "measured": 0
+    }
+  },
+  {
+    "app": "light_app",
+    "payload": {
+      "left_lux": 236.67586952622048,
+      "right_lux": 647.9916643521699,
+      "normalized_diff": 0.46493827237305446,
+      "bearing_rad": 0.5173920059735664,
+      "sample_counter": 84,
+      "valid": 1,
+      "status": 0,
+      "simulated": 1,
+      "error_valid": 1
+    }
+  },
+  {
+    "app": "imu_app",
+    "payload": {
+      "raw_rate_rad_s": 0.005646575110890054,
+      "rate_rad_s": 0.0015673437503890743,
+      "angle_rad": -0.059361722139151855,
+      "bias_rad_s": 0.00367,
+      "temp_c": 27.838297458253958,
+      "dt_s": 0.2,
+      "sample_counter": 85,
+      "valid": 1,
+      "status": 0,
+      "stationary": 1,
+      "simulated": 1
+    }
+  },
+  {
+    "app": "act_app",
+    "payload": {
+      "cmd_omega_rad_s": 0.0,
+      "target_omega_rad_s": 0.0,
+      "meas_omega_rad_s": 0.0,
+      "pfm_hz": 0,
+      "sample_counter": 85,
+      "valid": 1,
+      "status": 0,
+      "saturated": 0,
+      "simulated": 1,
+      "enabled": 0,
+      "braking": 1,
+      "direction": 0,
+      "measured": 0
+    }
+  },
+  {
+    "app": "light_app",
+    "payload": {
+      "left_lux": 235.60177479066363,
+      "right_lux": 646.7583264644026,
+      "normalized_diff": 0.4659736439679346,
+      "bearing_rad": 0.5186598021000668,
+      "sample_counter": 85,
+      "valid": 1,
+      "status": 0,
+      "simulated": 1,
+      "error_valid": 1
+    }
+  }
+]
