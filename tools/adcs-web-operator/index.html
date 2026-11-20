@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0a1121">
+  <title>ADCS / Mission Control — Ground Station</title>
+  <link rel="stylesheet" href="/static/app.css">
+  <script src="/static/app.js" defer></script>
+</head>
+<body>
+  <div class="shell">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="brand-mark"><span class="brand-orb"></span></div>
+        <div><div class="brand-name">ORBITAL<span class="brand-dot">.</span></div><div class="brand-sub">GROUND SYSTEMS</div></div>
+      </div>
+      <div class="sidebar-rule"></div>
+      <p class="nav-section">WORKSPACE <span>01</span></p>
+      <nav class="main-nav" aria-label="Điều hướng chính">
+        <button class="nav-btn active" data-page="overview"><span class="nav-ico">◈</span><span>Tổng quan</span><span class="nav-kbd">01</span></button>
+        <button class="nav-btn" data-page="apps"><span class="nav-ico">▦</span><span>Ứng dụng cFS</span><span class="nav-kbd">02</span></button>
+        <button class="nav-btn" data-page="commands"><span class="nav-ico">⌘</span><span>Điều khiển</span><span class="nav-kbd">03</span></button>
+        <button class="nav-btn" data-page="telemetry"><span class="nav-ico">⌁</span><span>Telemetry</span><span class="nav-kbd">04</span></button>
+        <button class="nav-btn" data-page="events"><span class="nav-ico">≡</span><span>Sự kiện</span><span class="nav-kbd">05</span></button>
+      </nav>
+      <p class="nav-section lower">SYSTEM <span>02</span></p>
+      <nav class="main-nav" aria-label="Cấu hình">
+        <button class="nav-btn" data-page="settings"><span class="nav-ico">⚙</span><span>Cấu hình & kết nối</span></button>
+      </nav>
+      <div class="sidebar-bottom">
+        <div class="station-status"><span class="pulse-dot"></span><div><strong id="sideMode">SIMULATION ONLINE</strong><small id="sideState">Hệ thống mô phỏng đang chạy</small></div></div>
+        <div class="side-footer"><span>ADCS / cFS</span><span>BUILD 02.0</span></div>
+      </div>
+    </aside>
+    <div class="content-shell">
+      <header class="topbar">
+        <div class="topbar-left"><button id="menuBtn" class="menu-btn" aria-label="Mở menu">☰</button><span class="top-breadcrumb">MISSION / <b id="crumb">OVERVIEW</b></span></div>
+        <div class="topbar-right"><div class="clock"><span class="clock-label">UTC SYSTEM TIME</span><span id="utcClock" class="mono">--:--:-- UTC</span></div><span class="top-divider"></span><span class="mode-chip" id="modeChip"><i></i> SIMULATION</span><button class="btn btn-ghost btn-sm" id="quickExport">↓ <span>Export CSV</span></button></div>
+      </header>
+      <main id="view" class="main-content" aria-live="polite"></main>
+      <footer class="site-footer"><span><span class="footer-accent">●</span> VULUONGD / ADCS_CFS · Dữ liệu trong SIMULATION là giả lập</span><span>GROUND SEGMENT <b> / </b> OPERATOR INTERFACE</span></footer>
+    </div>
+  </div>
+  <div id="toastHost" class="toast-host" aria-live="polite"></div>
+  <div id="modalHost"></div>
+</body>
+</html>
