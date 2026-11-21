@@ -30,6 +30,7 @@ from PyQt5.QtWidgets import QApplication, QMainWindow, QMessageBox
 
 from RoutingService import RoutingService
 from UiMainWindow import UiMainWindow
+from OperatorDashboard import install_operator_dashboard
 
 from _version import __version__ as _version
 from _version import _version_string
@@ -76,6 +77,10 @@ class GroundSystem(QMainWindow, UiMainWindow):
         # Init lists
         self.ip_addresses_list = ['All']
         self.spacecraft_names = ['All']
+
+        # Reuse the original NASA widgets and signals within the operator layout.
+        install_operator_dashboard(self)
+        self.push_button_start_fdl.clicked.connect(self.start_fdl_system)
 
     def closeEvent(self, evnt):
         if self.routing_service:
@@ -178,6 +183,7 @@ class GroundSystem(QMainWindow, UiMainWindow):
         self.routing_service = RoutingService()
         self.routing_service.signal_update_ip_list.connect(self.update_ip_list)
         self.routing_service.start()
+        self.routing_indicator.setText('RoutingService đang chạy • IPC PUB')
 
 
 #
